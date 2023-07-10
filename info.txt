@@ -1,0 +1,4 @@
+La arquitectura que se va a usar en el proyecto es la arquitectura de capas (layers architecture)
+
+ApplicationLayer <-> routesLayer <-> controllersLayer <-> ModelLayer <-> Persistence (DB) layers
+
